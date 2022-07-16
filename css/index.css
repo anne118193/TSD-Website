@@ -8,8 +8,8 @@
     min-height: 100vh;
     width: 100%;
     position: relative;
-    background-color: lightblue;
-    border-bottom: 5px solid navy;
+    background-color: lightblue; /*color for middle section with words*/
+    border-bottom: 5px solid #ffcd00; 
 }
 
 nav{
@@ -17,13 +17,16 @@ nav{
     padding: 0% 0%;
     justify-content: space-between;
     align-items: center;
-    background-color: yellow;
-    border-bottom: 5px solid navy;
+    background-color: #0e284b; /*blue for header*/
+    border-bottom: 5px solid #ffcd00; /*gold/yellow*/
 }
 
-nav img{
+/* circle that albert doesnt like (its like an oval tho) */ 
+/*nav img{
     width: 150px;
-}
+    border: 3px solid #ffcd00;
+    border-radius: 50%;
+}*/ 
 
 .nav-links{
     flex: 2;
@@ -38,7 +41,7 @@ nav img{
 }
 
 .nav-links ul li a{
-    color: navy;
+    color: #ffcd00;   /*color for links in the header*/
     text-decoration: none;
     font-size: 16px;
 }
@@ -178,7 +181,6 @@ nav img{
     text-align: center;
     padding-right: 10%;
     padding-left: 10%;
-    background-image: url(images/fallenstar.png);
 }
 
 h1{
@@ -199,7 +201,7 @@ h4{
     color: navy;
     font-size: 150%;
     text-decoration: none;
-    color:  navy;
+    color:  #0e284b; /* color for links*/
 }
 
 .links a::after{
@@ -219,10 +221,15 @@ h4{
 /* footer */
 .footer{
     text-align: center;
-    background-color: yellow;
-    color: navy;
+    background-color: #0e284b; /*navy blue for bottom boarder*/
+    color: #ffcd00; /*yellow for words*/
+    font-family: 'Arial', cursive;
     padding-top: 1%;
     padding-bottom: 1%;
+}
+
+.footer h2{
+    font-family: 'Arial', cursive;
 }
 
 /* Older Stuff
