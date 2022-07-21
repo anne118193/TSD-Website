@@ -1,7 +1,7 @@
 # TSD-Website
 UCSD TSD Website
 
-Feel free to add any notes that you may have for future TSd webdev people in the readme file.
+Feel free to add any notes that you may have for future TSd webdev people in the README.md file.
 
 <!--
 This repository is for storing all versions of the TSD website (on anne118193 repository). All excess test code / iterations on the website should be placed here. 
