@@ -28,6 +28,6 @@ Ranked by priority
 \
 If we do NOT want to start from scratch
   - [ ] make each team page and add memebers + pics + bio + proper links to each profile
-  - [ ] design contacts page 
   - [ ] design sponsors page
+  - [ ] design resources page
 - [x] outline/begin documentation for the website
