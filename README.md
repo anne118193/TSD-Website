@@ -31,3 +31,13 @@ If we do NOT want to start from scratch
   - [ ] design sponsors page
   - [ ] design resources page
 - [x] outline/begin documentation for the website
+
+## 3. Sponsors Page
+A couple ideas for this page:
+  - do something similar to each team page where we have each company's logo and a short description on who they are, what thier controbutions were, a link to thier website, etc
+  - rank them in terms of contribution size (largest contributer at the top)
+
+## 4. Resources Page
+A couple ideas for this page:
+  - links/references to all softwares that we use and documentation on how to use them 
+  - some sort of documentation of each team's workflow 
