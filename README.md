@@ -25,6 +25,7 @@ Ranked by priority
       Edit/Alter the code that is in the official TSD github [(documentation)](https://docs.google.com/document/d/145GG1HKFKvablGzENxLJHERmyHpwFhD4b2t5laEOHgY/edit)
       <!-- email asl006@ucsd.edu if you have questions about it --> 
 \
+\
 If we do NOT want to start from scratch
 
 - [ ] make each team page and add memebers + pics + bio + proper links to each profile
