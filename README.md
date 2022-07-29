@@ -18,10 +18,14 @@ Further documentation can be found in the [google drive](https://drive.google.co
 
 Ranked by priority
 
-- [ ] Fill out the [free website guys](https://drive.google.com/drive/u/0/folders/1nMxQ0P90SAWPb0Kms8k217DAjo4GgO_W) template
-- [ ] Begin designing the actual website 
+- [ ] fill out the [free website guys](https://drive.google.com/drive/u/0/folders/1nMxQ0P90SAWPb0Kms8k217DAjo4GgO_W) template
+- [ ] begin designing the actual website 
       Either start from scratch 
                 OR
       Edit/Alter the code that is in the official TSD github [(documentation)](https://docs.google.com/document/d/145GG1HKFKvablGzENxLJHERmyHpwFhD4b2t5laEOHgY/edit)
       <!-- email asl006@ucsd.edu if you have questions about it --> 
-- [x] Outline/begin documentation for the website
+If we do NOT want to start from scratch
+- [ ] make each team page and add memebers + pics + bio + proper links to each profile
+- [ ] design contacts page 
+- [ ] design sponsors page
+- [x] outline/begin documentation for the website
