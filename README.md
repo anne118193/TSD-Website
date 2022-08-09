@@ -30,7 +30,7 @@ If we do NOT want to start from scratch
   - [ ] make each team page and add memebers + pics + bio + proper links to each profile
   - [ ] design sponsors page
   - [ ] design resources page
-- [x] outline/begin documentation for the website
+  - [x] outline/begin documentation for the website
 
 ## 3. Sponsors Page
 A couple ideas for this page:
@@ -41,3 +41,7 @@ A couple ideas for this page:
 A couple ideas for this page:
   - links/references to all softwares that we use and documentation on how to use them 
   - some sort of documentation of each team's workflow 
+
+## 5. Team Page
+A couple ideas for this page:
+  - include current projects/tasks to allow new memebers to find things that they are interested in doing 
