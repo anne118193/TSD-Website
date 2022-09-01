@@ -19,7 +19,7 @@ Further documentation can be found in the [google drive](https://drive.google.co
 Ranked by priority
 
 - [x] fill out the [free website guys](https://drive.google.com/drive/u/0/folders/1nMxQ0P90SAWPb0Kms8k217DAjo4GgO_W) template
-        we decided not to do that ^
+        <-- we decided not to do that 
 - [x] begin designing the actual website 
       Either start from scratch <-- this one
                 OR
