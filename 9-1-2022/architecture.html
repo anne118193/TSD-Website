@@ -16,7 +16,8 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
         <link rel="stylesheet" href="css/index.css" type="text/css">
-        <link rel="stylesheet" href="css/about.css" type="text/css">
+        <link rel="stylesheet" href="css/electrical.css" type="text/css">
+        
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -44,65 +45,100 @@
             </div>
         </nav>
 
-        <section class="header">
-            <h1 class="page-section-heading text-center text-secondary mb-0">About TSD</h1>
-            <section class="page-section">
+          <!-- Portfolio Section-->
+        <section class="page-section portfolio" id="portfolio">
             <div class="container">
-                <div class="product-item">
-                    <div class="product-item-title d-flex">
-                        <div class="bg-faded p-5 d-flex ms-auto rounded">
-                            <h2 class="section-heading mb-0">
-                                <span class="section-heading-lower">Background</span>
-                            </h2>
+                <!-- Portfolio Section Heading-->
+                <div class="header">
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">The Architecture Team</h2>
+                <br>
+                <div class = "center">
+                    <h3> Click on each member to get to know them! </h3>
+                </div>
+                </div>
+                <!-- Portfolio Grid Items-->
+                <div class="row justify-content-center">
+                    <!-- Portfolio Item 1 Sara-->
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="images/TeamMem/Sara.jpeg" alt="..." />
                         </div>
                     </div>
-                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="images/TSDHouse.jpg" alt="..." />
-                    <div class="product-item-description d-flex me-auto">
-                        <div class="bg-faded p-5 rounded"><p class="mb-0">description</p></div>
+                    <!-- Portfolio Item 2 Serena-->
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="images/TeamMem/raccoon3.jfif" alt="..." />
+                        </div>
                     </div>
-                    
                 </div>
             </div>
         </section>
-        <section class="page-section">
-            <div class="container">
-                <div class="product-item">
-                    <div class="product-item-title d-flex">
-                        <div class="bg-faded p-5 d-flex me-auto rounded">
-                            <h2 class="section-heading mb-0">
-                                <span class="section-heading-lower">Challenges</span>
-                            </h2>
+        </section>
+        
+        <!-- Portfolio Modals-->
+        <!-- Portfolio Modal 1 Sara-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Sara Walston</h2>
+                                    <br>
+                                    <h3> Architecture Lead </h3>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="images/TeamMem/Sara.jpeg" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Raccoons stole their description, working to get it back!</p>
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
+                                        <i class="fas fa-xmark fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                    </button>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="images/HPS_calypso_boarder.jpg" alt="..." />
-                    <div class="product-item-description d-flex ms-auto">
-                        <div class="bg-faded p-5 rounded"><p class="mb-0">description</p></div>
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="page-section">
-            <div class="container">
-                <div class="product-item">
-                    <div class="product-item-title d-flex">
-                        <div class="bg-faded p-5 d-flex ms-auto rounded">
-                            <h2 class="section-heading mb-0">
-                                <span class="section-heading-lower">Competition</span>
-                            </h2>
+        </div>
+        <!-- Portfolio Modal 2 Serena-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" aria-labelledby="portfolioModal2" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Serena Low</h2>
+                                    <br>
+                                    <h3> Interior Design </h3>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="images/TeamMem/raccoon3.jfif" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Hi, I’m Serena! I’m a third-year chemical engineering student interested in environmental sustainability and design! I’m so excited to be working on interior design on the architecture team this year :)</p>
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
+                                        <i class="fas fa-xmark fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="images/OCSDsketch.png" alt="..." />
-                    <div class="product-item-description d-flex me-auto">
-                        <div class="bg-faded p-5 rounded"><p class="mb-0">The Orange County Sustainability Decathlon is an international collegiate competition challenging students to integrate high-performance design and inspire the industry through innovative solutions. The UC San Diego team is one of 17 teams competing in the 2023 Sustainability Decathlon at the Orange County Fairgrounds. Our team is working with the Greater Victory Church in the Logan Heights community, Jacobs School of Engineering, Urban Studies and Planning, Resource Management and Planning, Facilities Management, and industry partners.</p>
-                    </div>
                 </div>
-            <div class="projectButton"><a class="btn btn-primary btn-xl" href="https://ocsd23.com/">OCSD</a></div></div>
             </div>
-
-        </section>
-
-        </section>
-
+        </div>
         
         <!-- Footer-->
         <footer class="footer text-center">
