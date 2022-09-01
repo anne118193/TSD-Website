@@ -3,7 +3,21 @@
     padding: 0;
 }
 
-.space{
-    padding-top: 60px;
+.header{
+    padding-top: 160px;
     background-color: lightcyan;
 }
+
+.projectButton{
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);  
+}
+
+.bg-faded {
+  background-color: lightgoldenrodyellow;
+}
+
+
+
