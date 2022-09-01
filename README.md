@@ -45,4 +45,4 @@ A couple ideas for this page:
 
 ## 5. Each Team Page
 A couple ideas for this page:
-  - include current projects/tasks to allow new memebers to find things that they are interested in doing 
+  - include current projects/tasks to allow new members to find things that they are interested in doing 
