@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    padding-top: 165px;
+}
+
+header{
+    background-color: lightpink;
+    padding-bottom: 10px;
+}
+
+.locationBox{
+    padding-top: 10px;
+}
+
+.tiny-font{
+    font-size: small;
+}
+
+.space{
+    padding-top: 10px;
+}
+
+.email{
+    align: center;
+}
