@@ -8,8 +8,18 @@
 }
 
 header{
-    background-color: lightpink;
+    background-color: lightblue;
     padding-bottom: 10px;
+}
+
+.map{
+    background-color: lightblue;
+}
+
+.locationBox{
+    background-color: lightgoldenrodyellow;
+    border-bottom: 5px solid black;
+    border-top:  5px solid black;
 }
 
 .locationBox{
