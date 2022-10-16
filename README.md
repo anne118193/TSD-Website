@@ -28,7 +28,7 @@ Ranked by priority
 \
 \
 If we do NOT want to start from scratch
-  - [ ] make each team page and add memebers + pics + bio + proper links to each profile
+  - [x] make each team page and add memebers + pics + bio + proper links to each profile
   - [x] design sponsors page
   - [x] design resources page <-- got rid of this page
   - [x] outline/begin documentation for the website
